@@ -13,7 +13,7 @@ The data set is accquired from kaggle competition [Facial Expression Recognition
 
 ### Modeling approach
 We want to predict a person's facial expression, supervised image classification techniques will be used to predict facial expression. <br>
-In this project will be using Convolutional Neural Networks with and different types of deep neural networks.
+In this project will be using Convolutional Neural Networks with and different types of Deep Neural Networks.
 
 ### Deliverables.
 1. Code (Jupyter notebook), includes:
@@ -21,4 +21,4 @@ In this project will be using Convolutional Neural Networks with and different t
     3. Exploratory Data Analysis
     4. Neural Networks Architecture
 2. Report on the capstone project
-3. Findings and presentaions on the project
+3. Findings and presentations on the project
