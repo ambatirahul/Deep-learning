@@ -13,9 +13,7 @@ The data set is accquired from kaggle competition [Facial Expression Recognition
 
 ### Modeling approach
 We want to predict a person's facial expression, supervised image classification techniques will be used to predict facial expression. <br>
-Aim is to build various Neural Networks, train them and pick the model which performs the best to recognize facial expressions.
-
-For image recognition will be using Convolutional Neural Networks with deep neural networks.
+In this project will be using Convolutional Neural Networks with and different types of deep neural networks.
 
 ### Deliverables.
 1. Code (Jupyter notebook), includes:
