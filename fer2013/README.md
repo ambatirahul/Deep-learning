@@ -1,4 +1,4 @@
-Citation
+Citation.
 
 ### Challenges in Representation Learning: A report on three machine learning contests.
 
